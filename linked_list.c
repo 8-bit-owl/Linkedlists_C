@@ -1,6 +1,25 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+The whole idea of linkedlist is to have a pointer to the next node.
+This is a very simple implementation of linkedlist. 
 
+BUT WHY CARE !? :/
+
+Ever thought how spotify or apple music works? One of the data structure used is linkedlist.
+
+The next, shuffle, and playlists are all stored in linkedlist. Infact, I couldnt think of 
+any better data structure. Ofcourse, you could argue that graphs are better. But, graphs, trees 
+are all essentially linkedlists. Its imprtant to understand linkedlist on a memory level, and 
+use it in our projects when ever requreid. 
+
+This could be a part of system design interview.
+*/
+
+
+
+
+*/
 struct Node
 {
     int a;
