@@ -19,8 +19,8 @@ This could be a part of system design interview.
 
 
 
-*/
-struct Node
+
+struct Node 
 {
     int a;
     struct Node *next;
@@ -36,9 +36,9 @@ int main()
 
     
     */
-
-    struct Node *ptr;
     struct Node obj;
+    struct Node *ptr;
+    
     ptr = &obj;
     for(int i = 0;i<9;i++)
     {
