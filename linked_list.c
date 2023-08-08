@@ -38,7 +38,7 @@ int main()
     */
     struct Node obj;
     struct Node *ptr;
-    
+    //nothing
     ptr = &obj;
     for(int i = 0;i<9;i++)
     {
