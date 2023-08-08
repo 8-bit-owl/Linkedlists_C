@@ -58,6 +58,7 @@ int main()
     {
         printf("%d \n",*(head));
         head = head->next;
+        wded;
     }
     
     return 0;
